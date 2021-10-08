@@ -10,6 +10,7 @@ To complete this assignment, do as follow:
 
    * Name
    * Email address
+   * Your public repository from previous assignment
    * Resume (optional)
 
    in It.

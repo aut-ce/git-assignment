@@ -15,5 +15,5 @@ To complete this assignment, do as follow:
 
    in It.
 
-3. Update the `students.md` file  with your **student number + name**. The list is **sorter** by **student number** so please don't break the order.
+3. Update the `students.md` file  with your **student number + name**. The list is **sorted** by **student number** so please don't break the order.
 

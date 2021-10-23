@@ -1,7 +1,7 @@
 # Students
 - 9531415 - Mahdi Rahimzadeh
+- 9723010 - Amir Allahveran
 - 9726081 - Amirreza Naziri
-- 9731047 - Mohammad Fatemi
 - 9731017 - Yasaman Haghbin
 - 9731032 - Radin Shayanfar
 - 9731043 - Amir H. Askari

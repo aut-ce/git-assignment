@@ -15,6 +15,7 @@
 - 9731031 - Sahar Shahedi
 - 9731032 - Radin Shayanfar
 - 9731039 - Parsa Safaei
+- 9731042 - Ali Azizi
 - 9731043 - Amir H. Askari
 - 9731044 - Niloufar Eshghi
 - 9731047 - Mohammad Fatemi
@@ -31,4 +32,4 @@
 - 9731127 - Pooria Kalantari
 - 9731131 - Mahdi Afarideh
 - 9739020 - Mohammad Amin Habibollah
-- 9731042 - Ali Azizi
+
